@@ -1,5 +1,5 @@
 terraform{
-  required-providers{
+  "required-providers"{
     aws = {
       source = "hashicrop/aws"
       version = "4.22.0"
